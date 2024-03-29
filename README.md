@@ -1,12 +1,12 @@
 ### Hi there, I am Mahesh Rathi 👋
 
-## I'm a Developer and new to Flutter!
+## I'm a Android Developer and new to Flutter!
 
-- 🔭 I’m learning and developing Applications for flutter
+- 🔭 I’m learning and developing Applications for Android
 - 🌱 I’m learning each day specially on weekends 😁
-- 👯 I’m looking to collaborate with other flutter creators
+- 👯 I’m looking to collaborate with other creators
 - 🎃 Fun fact: I like to draw things
-- 🔍 Knock me for flutter project
+- 🔍 Knock me for Android project
 
 <br/>
 
